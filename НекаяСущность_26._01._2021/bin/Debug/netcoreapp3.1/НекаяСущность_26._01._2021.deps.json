@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "НекаяСущность_26._01._2021/1.0.0": {
+        "runtime": {
+          "НекаяСущность_26._01._2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "НекаяСущность_26._01._2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
